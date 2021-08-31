@@ -24,10 +24,22 @@
     "longitude" : -48.56542
   },
   {
+    "key" : "COL",
+    "name" : "Colina",
+    "latitude" : -20.717356,
+    "longitude" : -48.543488
+  },
+  {
     "key" : "BDO",
     "name" : "Bebedouro",
     "latitude" : -20.939206,
     "longitude" : -48.481657
+  },
+  {
+    "key" : "SEV",
+    "name" : "Severínia",
+    "latitude" : -20.810451,
+    "longitude" : -48.804361
   },
   {
     "key" : "MTA",
@@ -42,40 +54,28 @@
     "longitude" : -49.060644
   },
   {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "key" : "ICEM",
+    "name" : "Icem",
+    "latitude" : -20.338231,
+    "longitude" : -49.200647
   },
   {
-    "key" : "SC",
-    "name" : "Santa Catarina",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "key" : "PIT",
+    "name" : "Pitangueiras",
+    "latitude" : -21.017123,
+    "longitude" : -48.224605
   },
   {
-    "key" : "CE",
-    "name" : "Ceará",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "key" : "PIR",
+    "name" : "Pirangi",
+    "latitude" : -21.100298,
+    "longitude" : -48.666897
   },
   {
-    "key" : "GO",
-    "name" : "Goiás",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
-  },
-  {
-    "key" : "PB",
-    "name" : "Paraíba",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
-  },
-  {
-    "key" : "AP",
-    "name" : "Amapá",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
+    "key" : "STA",
+    "name" : "Santa Adelia",
+    "latitude" : -21.240517,
+    "longitude" : -48.807891
   },
   {
     "key" : "AL",
