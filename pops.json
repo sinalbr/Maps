@@ -242,7 +242,31 @@
   {
     "key" : "JLS",
     "name" : "Jales",
-    "latitude" : -20.483089,
-    "longitude" : -49.779108
+    "latitude" : -20.273429,
+    "longitude" : -50.514165
+  },
+    {
+    "key" : "STAF",
+    "name" : "Santa Fé do Sul",
+    "latitude" : -20.199354,
+    "longitude" : -50.905866
+  },
+  {
+    "key" : "APT",
+    "name" : "Aparecida do Taboado",
+    "latitude" : -20.077784,
+    "longitude" : -51.100822
+  },
+  {
+    "key" : "APD",
+    "name" : "Aparecida D'Oeste",
+    "latitude" : ,
+    "longitude" : 
+  },
+  {
+    "key" : "PBA",
+    "name" : "Pereira Barreto",
+    "latitude" : ,
+    "longitude" : 
   }
 ]
