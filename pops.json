@@ -150,15 +150,99 @@
     "longitude" : -49.511959
   },
   {
-    "key" : "PI",
-    "name" : "Piauí",
-    "latitude" : -5.09194,
-    "longitude" : -42.8034
+    "key" : "ORI",
+    "name" : "Orindiuva",
+    "latitude" : -20.187821,
+    "longitude" : -49.356152
   },
   {
-    "key" : "ES",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "key" : "PAL",
+    "name" : "Palestina",
+    "latitude" : -20.390756,
+    "longitude" : -49.432853
+  },
+  {
+    "key" : "TAN",
+    "name" : "Tanabi",
+    "latitude" : -20.629662,
+    "longitude" : -49.650571
+  },
+  {
+    "key" : "BAL",
+    "name" : "Balsamo",
+    "latitude" : -0,
+    "longitude" : -0
+  },
+  {
+    "key" : "COSV",
+    "name" : "Cosmorama-Vips_Net",
+    "latitude" : -20.494680,
+    "longitude" : -49.801833
+  },
+  {
+    "key" : "COSF",
+    "name" : "Cosmorama-Flash",
+    "latitude" : -20.483089,
+    "longitude" : -49.779108
+  },
+  {
+    "key" : "VOT",
+    "name" : "Votuporanga",
+    "latitude" : -20.426724,
+    "longitude" : -49.971580
+  },
+  {
+    "key" : "MIRA",
+    "name" : "Mirassolandia",
+    "latitude" : -0,
+    "longitude" : -0
+  },
+  {
+    "key" : "MTAP",
+    "name" : "Monte Aprazivel",
+    "latitude" : -20.771285,
+    "longitude" : -49.711935
+  },
+  {
+    "key" : "MAC",
+    "name" : "Macaubal",
+    "latitude" : -20.806925,
+    "longitude" : -49.965628
+  },
+  {
+    "key" : "FLO",
+    "name" : "Floreal",
+    "latitude" : -20.676575,
+    "longitude" : -50.147659
+  },
+  {
+    "key" : "GN",
+    "name" : "General Salgado",
+    "latitude" : -0,
+    "longitude" : -0
+  },
+  {
+    "key" : "EST",
+    "name" : "Estrela",
+    "latitude" : -20.287202,
+    "longitude" : -50.401299
+  },
+  {
+    "key" : "FER",
+    "name" : "Fernandopolis",
+    "latitude" : -20.275402,
+    "longitude" : -50.249687
+  },
+  {
+    "key" : "OUR",
+    "name" : "Ouroeste",
+    "latitude" : -20.002234,
+    "longitude" : -50.373267
+  },
+  {
+    "key" : "COSF",
+    "name" : "Cosmorama-Flash",
+    "latitude" : -20.483089,
+    "longitude" : -49.779108
   }
 ]
