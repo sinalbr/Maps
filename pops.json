@@ -108,40 +108,40 @@
     "longitude" : -49.263264
   },
   {
-    "key" : "RO",
-    "name" : "Rondônia",
-    "latitude" : -8.76077,
-    "longitude" : -63.8999
+    "key" : "PQP",
+    "name" : "Pq.dos Passaros",
+    "latitude" : -20.871727,
+    "longitude" : -49.417892
   },
   {
-    "key" : "PE",
-    "name" : "Pernambuco",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "key" : "ILH",
+    "name" : "Ilhas do Sul",
+    "latitude" : -20.819275,
+    "longitude" : -49.391104
   },
   {
-    "key" : "AC",
-    "name" : "Acre",
-    "latitude" : -9.97499,
-    "longitude" : -67.8243
+    "key" : "MAN",
+    "name" : "Manchester",
+    "latitude" : -20.796947,
+    "longitude" : -49.411997
   },
   {
     "key" : "RJ",
-    "name" : "Rio de Janeiro",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
+    "name" : "SRR RJ",
+    "latitude" : -0,
+    "longitude" : -0
   },
   {
-    "key" : "BA",
-    "name" : "Bahia",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
+    "key" : "POT",
+    "name" : "Potiredaba",
+    "latitude" : -21.060974,
+    "longitude" : -49.372217
   },
   {
-    "key" : "MA",
-    "name" : "Maranhão",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
+    "key" : "NG",
+    "name" : "Nova Granada",
+    "latitude" : -20.539600,
+    "longitude" : -49.324876
   },
   {
     "key" : "SP",
