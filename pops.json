@@ -78,34 +78,34 @@
     "longitude" : -48.807891
   },
   {
-    "key" : "AL",
-    "name" : "Alagoas",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
+    "key" : "CAT",
+    "name" : "Catanduva",
+    "latitude" : -21.153335,
+    "longitude" : -48.995917
   },
   {
-    "key" : "AM",
-    "name" : "Amazonas",
-    "latitude" : -3.11866,
-    "longitude" : -60.0212
+    "key" : "IBI",
+    "name" : "Ibitinga",
+    "latitude" : -21.746147,
+    "longitude" : -48.827372
   },
   {
-    "key" : "RN",
-    "name" : "Rio Grande do Norte",
-    "latitude" : -5.79357,
-    "longitude" : -35.1986
+    "key" : "UCH",
+    "name" : "Uchoa",
+    "latitude" : -20.952745,
+    "longitude" : -49.176038
   },
   {
-    "key" : "TO",
-    "name" : "Tocantins",
-    "latitude" : -10.24,
-    "longitude" : -48.3558
+    "key" : "NH",
+    "name" : "Novo Horizonte",
+    "latitude" : -21.463067,
+    "longitude" : -49.228860
   },
   {
-    "key" : "RS",
-    "name" : "Rio Grande do Sul",
-    "latitude" : -30.0318,
-    "longitude" : -51.2065
+    "key" : "CED",
+    "name" : "Cedral",
+    "latitude" : -20.906721,
+    "longitude" : -49.263264
   },
   {
     "key" : "RO",
