@@ -128,8 +128,8 @@
   {
     "key" : "RJ",
     "name" : "SRR RJ",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20.811846,
+    "longitude" : -49.380914
   },
   {
     "key" : "POT",
@@ -170,8 +170,8 @@
   {
     "key" : "BAL",
     "name" : "Balsamo",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20,74307607027093,
+    "longitude" : -49,57001100294292
   },
   {
     "key" : "COSV",
@@ -194,8 +194,8 @@
   {
     "key" : "MIRA",
     "name" : "Mirassolandia",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20.614284,
+    "longitude" : -49.464885
   },
   {
     "key" : "MTAP",
@@ -218,8 +218,8 @@
   {
     "key" : "GN",
     "name" : "General Salgado",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20,647043210616943,
+    "longitude" : -50,36084753850696
   },
   {
     "key" : "EST",
@@ -260,13 +260,13 @@
   {
     "key" : "APD",
     "name" : "Aparecida D'Oeste",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20.447027,
+    "longitude" : -50.891968
   },
   {
     "key" : "PBA",
     "name" : "Pereira Barreto",
-    "latitude" : -0,
-    "longitude" : -0
+    "latitude" : -20.621271,
+    "longitude" : -51.095459
   }
 ]
