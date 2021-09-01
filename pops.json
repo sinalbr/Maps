@@ -170,8 +170,8 @@
   {
     "key" : "BAL",
     "name" : "Balsamo",
-    "latitude" : -20,743076,
-    "longitude" : -49,57001
+    "latitude" : -20.743076,
+    "longitude" : -49.570011
   },
   {
     "key" : "COSV",
@@ -218,8 +218,8 @@
   {
     "key" : "GN",
     "name" : "General Salgado",
-    "latitude" : -20,647043,
-    "longitude" : -50,36084
+    "latitude" : -20.647056,
+    "longitude" : -50.360861
   },
   {
     "key" : "EST",
