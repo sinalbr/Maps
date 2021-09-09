@@ -264,6 +264,12 @@
     "longitude" : -50.891968
   },
   {
+    "key" : "GUA",
+    "name" : "Guaira",
+    "latitude" : -20.321272,
+    "longitude" : -48.312122
+  },
+  {
     "key" : "PBA",
     "name" : "Pereira Barreto",
     "latitude" : -20.621271,
