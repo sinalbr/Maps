@@ -30,10 +30,16 @@
     "longitude" : -48.543488
   },
   {
-    "key" : "BDO",
-    "name" : "Bebedouro",
-    "latitude" : -20.939206,
-    "longitude" : -48.481657
+    "key" : "BDOT",
+    "name" : "Bebedouro Trend Risk",
+    "latitude" : -20.939214,
+    "longitude" : -48.481570
+  },
+  {
+    "key" : "BDOS",
+    "name" : "Bebedouro Sitio",
+    "latitude" : -20.967897,
+    "longitude" : -48.441924
   },
   {
     "key" : "SEV",
