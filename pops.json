@@ -282,6 +282,12 @@
     "longitude" : -50.623729
   },
   {
+    "key" : "ALB",
+    "name" : "Sta Albertina",
+    "latitude" : -20.031829,
+    "longitude" : -50.727445
+  },
+  {
     "key" : "PBA",
     "name" : "Pereira Barreto",
     "latitude" : -20.621271,
