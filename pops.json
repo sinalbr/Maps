@@ -288,6 +288,12 @@
     "longitude" : -50.727445
   },
   {
+    "key" : "TESTE",
+    "name" : "TESTE",
+    "latitude" : -20.809505,
+    "longitude" : -49.396841
+  },
+  {
     "key" : "PBA",
     "name" : "Pereira Barreto",
     "latitude" : -20.621271,
